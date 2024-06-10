@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/hankengrotesk/v8/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Za4Q.ttf) format('truetype');
+}
